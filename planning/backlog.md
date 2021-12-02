@@ -26,12 +26,13 @@
 
 ## SHOULD HAVES
 
-- As a user i can navigate the web information from learn more about website.
+- As owner i can navigate the web information from learn more about website.
 
 - As a owner i can have the informaton of the clint so that i can contact them
   when i need.
 
 ### COULD HAVES
 
-- As a user i would like see the picture of the company and location, so that i
+- As owner i would like see the picture of the company and location, so that i
   can visit.
+- i as the owner i would like to see page animation when opened.
