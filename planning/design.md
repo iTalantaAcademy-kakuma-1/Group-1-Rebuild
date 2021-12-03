@@ -1,3 +1,7 @@
-home page design
+homepage design
 
-![homepage](homedesign.png)
+![homepage](homepagedesign.png)
+
+document design
+
+![document page](documentspage.png)
