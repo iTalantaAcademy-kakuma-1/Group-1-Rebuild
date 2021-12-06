@@ -34,3 +34,5 @@
 - As owner i would like see the picture of the company and location, so that i
   can visit.
 - i as the owner i would like to see page animation when opened.
+  <!--link-->
+  ![image](https://raw.githubusercontent.com/iTalantaAcademy-kakuma-1/Group-1-Rebuild/master/planning/design.png.PNG)
