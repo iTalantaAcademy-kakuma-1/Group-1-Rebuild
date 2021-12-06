@@ -1,7 +1,3 @@
-homepage design
+# Features design
 
-![homepage](homepagedesign.png)
-
-document design
-
-![document page](documentspage.png)
+![image](featuredesign.png)
