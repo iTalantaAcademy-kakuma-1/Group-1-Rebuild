@@ -3,11 +3,9 @@
 - i as the owner i need to see the tittle in the website,because i need the
   visitors to know our company. what the website about.
 
-- i As the owner i want my clint to learn more about the website, in order to
-  get insights.
+- i As the owner i want my client to learn more about the website, in order to get insights.
 
-- as a owner i need to see sign in tab form,in order to have the visitors
-  information.
+- as a owner i need to see sign in tab form,in order to have the visitors information.
 
 - as the owner i need to have navigation panel at the top of the page, in order
   to go to all to pages from one place to other.
